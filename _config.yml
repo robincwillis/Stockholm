@@ -1,5 +1,5 @@
 name: Stockholm
-markdown: redcarpet-pygments
+markdown: redcarpet
 pygments: true
 url: "http://robincwillis.github.io/Stockholm/"
 paginate: 10
