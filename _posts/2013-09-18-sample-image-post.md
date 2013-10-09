@@ -6,9 +6,9 @@ tags: Sample
 ---
 
 Regular Image:
-![alt text](/assets/img/black.jpg "Black Caviar")
+![alt text]({{ site.url }}assets/img/bierstadt_sunrise.jpg "Sunrise")
 
 Or With a frame:
-![alt text][red]
+![alt text][img2]
 
-[red]: /assets/img/red.jpg "Red Caviar"
+[img2]: {{ site.url }}assets/img/bierstadt_looking_up.jpg "Looking Up"
