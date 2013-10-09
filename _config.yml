@@ -1,6 +1,6 @@
 name: Stockholm
 markdown: redcarpet-pygments
 pygments: true
-url: "http://localhost:4000"
+url: "http://robincwillis.github.io/Stockholm/"
 paginate: 10
 permalink: pretty
